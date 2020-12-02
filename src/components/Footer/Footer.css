@@ -3,9 +3,8 @@
 .Footer {
   box-sizing: border-box;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
+  position: relative;
+  bottom: 0;
   padding: 1em;
   margin-top: 2em;
   background-color: rgb(192, 45, 26);
